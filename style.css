@@ -120,8 +120,12 @@ body {
   margin:0.65em 1em 0 1em;
 }
 
-.download > .word {
+.download > .pdf {
   background-color: #4599FF;
+}
+.icon {
+  background-color: #Fff;
+  border-radius: 5px;
 }
 
 .download > .powerpoint {
